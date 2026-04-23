@@ -5,3 +5,5 @@
 __pycache__/
 *.pyc
 sample-data/goodreads_library_export.csv
+.vercel
+.env*.local

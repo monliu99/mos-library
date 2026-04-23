@@ -1,6 +1,7 @@
 {
   "rewrites": [
     { "source": "/", "destination": "/search-app/index.html" },
+    { "source": "/favicon.svg", "destination": "/search-app/favicon.svg" },
     { "source": "/api/meili/(.*)", "destination": "/api/meili" }
   ]
 }
